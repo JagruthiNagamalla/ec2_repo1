@@ -1,1 +1,1 @@
-echo "hiii & test & test2"
+echo "hiii & test & test2 &&"
